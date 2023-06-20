@@ -8,7 +8,7 @@
 
 ![south1](https://github.com/amir-ko/first-template/assets/119657835/bcd464fb-00e9-4091-b133-52d21258633d)
 
-- [Demo Project]https://amir-ko.github.io/first-template/
+- [Demo Project](https://amir-ko.github.io/first-template/)
 
 - Developed by amirreza kokabi
 
